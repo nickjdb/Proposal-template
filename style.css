@@ -17,9 +17,6 @@ padding: 30vh 5%;
 background-attachment: fixed;
 }
 
-header h1 {padding: 30vh;
-}
-
 footer {
 background-color: red;
 color: white;
@@ -27,8 +24,8 @@ margin: auto;
 text-align: center;
 }
 
-header, footer, section {
-padding: 5%;
+footer, section {
+  padding: 1% 5%;
 }
 
 /* Typography */
